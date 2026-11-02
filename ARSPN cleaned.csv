@@ -1,0 +1,121 @@
+record_id,country,facility_city,age_years,sex,modality,body_region,referral_type,scan_date,scan_time_min,dose_mGy,finding,lesion_size_cm
+ARSPN_001,Nigeria,Enugu,62.0,Female,MRI,Spine,Emergency,2026-06-09,25.0,0.104,Stroke,3.2
+ARSPN_002,South Africa,Cape Town,33.0,Male,CT,Spine,Inpatient,2026-04-04,16.5,8.7,Pneumonia,3.2
+ARSPN_003,Kenya,Nairobi,31.0,Male,X-RAY,Chest,Outpatient,2026-07-07,3.6,0.074,Mass,4.3
+ARSPN_004,South Africa,Johannesburg,58.0,Female,CT,Spine,Emergency,2026-07-23,20.6,9.79,Normal,3.2
+ARSPN_005,Kenya,Nairobi,60.0,Male,MRI,Chest,Emergency,2026-02-17,29.6,0.104,Normal,3.2
+ARSPN_006,Uganda,Kampala,58.0,Male,MRI,Spine,Inpatient,2026-07-08,39.2,0.104,Spine Degeneration,3.2
+ARSPN_007,Ghana,Kumasi,61.0,Female,X-RAY,Pelvis,Emergency,2026-02-28,6.3,0.089,Pneumonia,3.2
+ARSPN_008,South Africa,Johannesburg,51.0,Male,MRI,Pelvis,Emergency,2026-06-29,29.3,0.104,Stroke,3.2
+ARSPN_009,Uganda,Kampala,59.0,Male,X-RAY,Pelvis,Outpatient,2026-04-02,4.3,0.104,Pneumonia,3.2
+ARSPN_010,Tanzania,Dar es Salaam,26.0,Female,MRI,Chest,Emergency,2026-04-02,43.0,0.104,Glioma,3.2
+ARSPN_011,Uganda,Kampala,60.0,Male,MRI,Pelvis,Outpatient,2026-01-05,3.7,0.094,Pneumonia,3.2
+ARSPN_012,Nigeria,Lagos,57.0,Male,X-RAY,Head,Outpatient,2026-04-04,5.9,0.094,Normal,3.2
+ARSPN_013,Nigeria,Lagos,47.0,Male,MRI,Abdomen,Emergency,2026-07-10,24.8,0.104,Glioma,1.9
+ARSPN_014,Kenya,Nairobi,72.0,Female,CT,Spine,Outpatient,2026-07-09,11.2,5.7,Mass,2.0
+ARSPN_015,Nigeria,Lagos,56.0,Male,CT,Abdomen,Emergency,2026-06-01,12.3,4.16,Fracture,3.2
+ARSPN_016,Uganda,Kampala,77.0,Female,X-RAY,Abdomen,Emergency,2026-02-07,5.4,0.085,Fracture,3.2
+ARSPN_017,Kenya,Mombasa,75.0,Female,MRI,Pelvis,Outpatient,2026-04-04,31.6,0.104,Glioma,2.6
+ARSPN_018,Kenya,Nairobi,22.0,Female,X-RAY,Chest,Outpatient,2026-05-21,6.7,0.089,Pneumonia,3.2
+ARSPN_019,Kenya,Mombasa,18.0,Male,ULTRASOUND,Head,Emergency,2026-03-01,6.7,0.104,Mass,2.3
+ARSPN_020,Nigeria,Abuja,46.0,Male,X-RAY,Head,Outpatient,2026-02-21,4.0,0.03,Normal,3.2
+ARSPN_021,Uganda,Kampala,66.0,Male,X-RAY,Extremity,Inpatient,2026-04-27,3.1,0.044,Normal,3.2
+ARSPN_022,Uganda,Kampala,64.0,Male,X-RAY,Abdomen,Inpatient,2026-07-10,4.7,0.092,Pneumonia,3.2
+ARSPN_023,Ghana,Kumasi,40.0,Female,ULTRASOUND,Chest,Outpatient,2026-01-20,4.9,0.104,Normal,3.2
+ARSPN_024,South Africa,Cape Town,54.0,Male,ULTRASOUND,Chest,Outpatient,2026-03-28,10.9,0.104,Gallstones,3.2
+ARSPN_025,Kenya,Mombasa,52.0,Male,CT,Spine,Inpatient,2026-07-07,18.6,4.4,Normal,3.2
+ARSPN_026,Nigeria,Lagos,29.0,Male,CT,Abdomen,Outpatient,2026-04-02,10.4,10.43,Fracture,3.2
+ARSPN_027,Nigeria,Enugu,50.0,Female,CT,Chest,Outpatient,2026-06-10,11.8,2.35,Stroke,3.2
+ARSPN_028,Uganda,Kampala,65.0,Male,CT,Extremity,Outpatient,2026-03-05,10.1,8.59,Stroke,3.2
+ARSPN_029,Nigeria,Abuja,73.0,Male,X-RAY,Abdomen,Inpatient,2026-05-14,5.5,0.073,Pneumonia,3.2
+ARSPN_030,Tanzania,Dar es Salaam,53.0,Female,CT,Head,Outpatient,2026-04-01,10.9,5.94,Stroke,3.2
+ARSPN_031,Kenya,Mombasa,70.0,Female,X-RAY,Extremity,Inpatient,2026-06-10,1.0,0.06,Pneumonia,3.2
+ARSPN_032,Uganda,Kampala,51.0,Male,ULTRASOUND,Spine,Outpatient,2026-05-17,14.5,0.104,Normal,3.2
+ARSPN_033,Tanzania,Dar es Salaam,87.0,Female,MRI,Extremity,Outpatient,2026-07-05,56.4,0.104,Glioma,6.2
+ARSPN_034,Nigeria,Abuja,80.0,Female,X-RAY,Abdomen,Outpatient,2026-02-02,6.6,0.073,Fracture,3.2
+ARSPN_035,Ghana,Kumasi,44.0,Female,CT,Abdomen,Emergency,2026-04-19,9.8,9.2,Fracture,3.2
+ARSPN_036,South Africa,Johannesburg,49.0,Female,MRI,Spine,Inpatient,2026-02-17,30.8,0.104,Meningioma,2.9
+ARSPN_037,Ghana,Kumasi,35.0,Female,X-RAY,Extremity,Outpatient,2026-01-23,2.8,0.088,Normal,3.2
+ARSPN_038,Nigeria,Enugu,65.0,Female,ULTRASOUND,Spine,Inpatient,2026-05-02,5.6,0.104,Gallstones,3.2
+ARSPN_039,South Africa,Johannesburg,47.0,Male,X-RAY,Pelvis,Outpatient,2026-05-25,7.9,0.085,Mass,2.7
+ARSPN_040,Uganda,Kampala,18.0,Female,CT,Head,Outpatient,2026-03-18,5.9,13.68,Fracture,3.2
+ARSPN_041,South Africa,Cape Town,30.0,Female,MRI,Chest,Inpatient,2026-03-10,43.8,0.104,Glioma,4.9
+ARSPN_042,Kenya,Nairobi,56.0,Female,X-RAY,Pelvis,Outpatient,2026-02-12,3.6,0.082,Mass,4.1
+ARSPN_043,Uganda,Kampala,50.0,Male,ULTRASOUND,Spine,Emergency,2026-05-02,17.3,0.104,Fibroid,3.2
+ARSPN_044,Nigeria,Enugu,27.0,Female,ULTRASOUND,Spine,Inpatient,2026-07-15,16.0,0.104,Mass,2.2
+ARSPN_045,Tanzania,Dar es Salaam,36.0,Male,MRI,Spine,Outpatient,2026-05-01,16.6,6.54,Normal,3.2
+ARSPN_046,Kenya,Mombasa,50.0,Male,X-RAY,Abdomen,Outpatient,2026-01-25,3.8,0.018,Mass,3.6
+ARSPN_047,South Africa,Cape Town,64.0,Male,X-RAY,Head,Outpatient,2026-02-26,5.5,0.112,Mass,3.3
+ARSPN_048,South Africa,Cape Town,46.0,Male,MRI,Abdomen,Inpatient,2026-03-22,27.4,0.104,Normal,3.2
+ARSPN_049,Nigeria,Enugu,34.0,Female,X-RAY,Spine,Outpatient,2026-07-19,7.7,0.08,Mass,3.9
+ARSPN_050,Kenya,Mombasa,45.0,Female,ULTRASOUND,Head,Outpatient,2026-01-03,8.2,0.104,Normal,3.2
+ARSPN_051,Nigeria,Enugu,26.0,Male,X-RAY,Abdomen,Outpatient,2026-06-14,6.0,0.093,Pneumonia,3.2
+ARSPN_052,Uganda,Kampala,49.0,Male,ULTRASOUND,Head,Inpatient,2026-05-20,12.8,0.104,Gallstones,3.2
+ARSPN_053,Tanzania,Dar es Salaam,62.0,Male,X-RAY,Head,Inpatient,2026-01-31,3.6,0.096,Pneumonia,3.2
+ARSPN_054,Tanzania,Dar es Salaam,41.0,Female,CT,Spine,Emergency,2026-07-25,15.3,8.15,Mass,0.8
+ARSPN_055,South Africa,Cape Town,36.0,Male,CT,Chest,Inpatient,2026-06-22,12.8,7.65,Stroke,3.2
+ARSPN_056,Tanzania,Dar es Salaam,73.0,Female,CT,Abdomen,Outpatient,2026-06-04,9.6,5.99,Stroke,3.2
+ARSPN_057,Nigeria,Abuja,63.0,Male,CT,Chest,Outpatient,2026-01-09,7.8,9.68,Stroke,3.2
+ARSPN_058,Ghana,Kumasi,65.0,Female,X-RAY,Extremity,Emergency,2026-06-14,3.7,0.048,Normal,3.2
+ARSPN_059,Ghana,Accra,55.0,Female,X-RAY,Pelvis,Outpatient,2026-07-17,7.1,0.036,Mass,2.6
+ARSPN_060,Nigeria,Abuja,55.0,Male,X-RAY,Head,Emergency,2026-03-05,5.3,0.082,Pneumonia,3.2
+ARSPN_061,Uganda,Kampala,48.0,Male,X-RAY,Abdomen,Outpatient,2026-05-07,1.0,0.032,Pneumonia,3.2
+ARSPN_062,Ghana,Kumasi,83.0,Female,CT,Chest,Emergency,2026-04-25,13.4,5.61,Fracture,3.2
+ARSPN_063,Uganda,Kampala,42.0,Female,X-RAY,Pelvis,Outpatient,2026-03-17,5.0,0.046,Fracture,3.2
+ARSPN_064,Tanzania,Dar es Salaam,50.0,Female,X-RAY,Pelvis,Outpatient,2026-04-20,3.4,0.075,Mass,3.5
+ARSPN_065,Tanzania,Dar es Salaam,60.0,Female,MRI,Head,Inpatient,2026-02-28,41.7,0.104,Normal,3.2
+ARSPN_066,Uganda,Kampala,65.0,Female,CT,Abdomen,Emergency,2026-05-29,6.0,2.53,Mass,4.5
+ARSPN_067,Nigeria,Abuja,18.0,Female,X-RAY,Spine,Inpatient,2026-06-11,5.9,0.153,Pneumonia,3.2
+ARSPN_068,South Africa,Johannesburg,50.0,Female,X-RAY,Spine,Emergency,2026-05-30,5.7,0.104,Pneumonia,3.2
+ARSPN_069,Nigeria,Lagos,31.0,Male,X-RAY,Extremity,Inpatient,2026-06-27,4.6,0.12,Fracture,3.2
+ARSPN_070,Kenya,Mombasa,53.0,Male,CT,Extremity,Outpatient,2026-07-17,8.2,7.41,Pneumonia,3.2
+ARSPN_071,Nigeria,Abuja,39.0,Female,CT,Chest,Outpatient,2026-06-26,8.9,1.32,Pneumonia,3.2
+ARSPN_072,Tanzania,Dar es Salaam,44.0,Male,X-RAY,Pelvis,Inpatient,2026-04-24,3.0,0.086,Fracture,3.2
+ARSPN_073,Tanzania,Dar es Salaam,59.0,Male,X-RAY,Abdomen,Inpatient,2026-01-26,4.4,0.077,Normal,2.2
+ARSPN_074,Tanzania,Dar es Salaam,39.0,Female,MRI,Pelvis,Emergency,2026-07-12,37.3,0.104,Spine Degeneration,3.2
+ARSPN_075,Uganda,Kampala,65.0,Female,CT,Pelvis,Emergency,2026-03-30,14.2,6.54,Normal,3.2
+ARSPN_076,Ghana,Kumasi,53.0,Female,X-RAY,Pelvis,Outpatient,2026-07-26,2.1,0.086,Mass,4.4
+ARSPN_077,South Africa,Johannesburg,28.0,Male,ULTRASOUND,Pelvis,Inpatient,2026-04-17,5.7,0.104,Normal,3.2
+ARSPN_078,South Africa,Johannesburg,53.0,Male,MRI,Pelvis,Inpatient,2026-06-22,25.8,0.104,Normal,3.2
+ARSPN_079,South Africa,Cape Town,19.0,Female,X-RAY,Pelvis,Emergency,2026-03-10,4.0,0.067,Mass,3.3
+ARSPN_080,Tanzania,Dar es Salaam,71.0,Male,MRI,Head,Outpatient,2026-07-14,31.6,0.104,Glioma,3.8
+ARSPN_081,Ghana,Kumasi,58.0,Female,MRI,Head,Outpatient,2026-06-12,23.8,0.104,Normal,3.2
+ARSPN_082,Nigeria,Lagos,61.0,Female,X-RAY,Extremity,Emergency,2026-01-01,4.1,0.124,Normal,3.2
+ARSPN_083,Tanzania,Dar es Salaam,57.0,Male,X-RAY,Pelvis,Inpatient,2026-03-29,2.9,0.121,Pneumonia,3.2
+ARSPN_084,Tanzania,Dar es Salaam,41.0,Male,MRI,Spine,Outpatient,2026-02-27,34.9,0.104,Normal,3.2
+ARSPN_085,Uganda,Kampala,51.0,Male,CT,Extremity,Outpatient,2026-05-15,20.2,10.6,Pneumonia,3.2
+ARSPN_086,Ghana,Kumasi,60.0,Female,MRI,Pelvis,Inpatient,2026-01-13,25.3,0.104,Stroke,3.2
+ARSPN_087,Kenya,Nairobi,45.0,Female,ULTRASOUND,Chest,Outpatient,2026-04-27,5.6,0.104,Gallstones,3.2
+ARSPN_088,Nigeria,Enugu,70.0,Male,MRI,Extremity,Outpatient,2026-04-16,21.1,0.104,Spine Degeneration,3.2
+ARSPN_089,Uganda,Kampala,18.0,Male,CT,Abdomen,Outpatient,2026-06-05,9.9,9.95,Stroke,3.2
+ARSPN_090,Ghana,Accra,36.0,Male,X-RAY,Pelvis,Outpatient,2026-04-28,9.8,0.09,Normal,3.2
+ARSPN_091,Ghana,Accra,63.0,Male,X-RAY,Spine,Inpatient,2026-02-08,4.1,0.064,Pneumonia,3.2
+ARSPN_092,Ghana,Kumasi,40.0,Female,CT,Pelvis,Outpatient,2026-07-21,15.8,7.76,Stroke,3.2
+ARSPN_093,South Africa,Johannesburg,18.0,Male,CT,Head,Outpatient,2026-01-11,16.5,7.9,Normal,3.2
+ARSPN_094,Tanzania,Dar es Salaam,67.0,Male,MRI,Head,Emergency,2026-04-14,43.6,0.104,Stroke,3.2
+ARSPN_095,Kenya,Mombasa,61.0,Female,MRI,Head,Inpatient,2026-02-27,37.9,0.104,Normal,3.2
+ARSPN_096,Kenya,Nairobi,42.0,Female,MRI,Abdomen,Inpatient,2026-07-11,37.0,0.104,Glioma,0.5
+ARSPN_097,Kenya,Mombasa,54.0,Female,X-RAY,Abdomen,Inpatient,2026-05-07,2.8,0.046,Mass,3.2
+ARSPN_098,Nigeria,Lagos,51.0,Male,CT,Head,Emergency,2026-01-19,5.5,10.92,Mass,4.1
+ARSPN_099,Uganda,Kampala,50.0,Male,X-RAY,Spine,Inpatient,2026-06-12,6.0,0.134,Mass,2.0
+ARSPN_100,Ghana,Kumasi,30.0,Male,ULTRASOUND,Chest,Inpatient,2026-06-20,14.5,0.104,Fibroid,3.2
+ARSPN_101,Nigeria,Enugu,56.0,Female,X-RAY,Chest,Outpatient,2026-01-07,6.3,0.102,Normal,3.2
+ARSPN_102,South Africa,Johannesburg,38.0,Male,CT,Abdomen,Outpatient,2026-05-05,17.4,13.69,Mass,3.3
+ARSPN_103,Ghana,Kumasi,29.0,Female,CT,Head,Outpatient,2026-01-04,11.8,4.59,Normal,3.2
+ARSPN_104,Uganda,Kampala,49.0,Male,X-RAY,Extremity,Inpatient,2026-06-01,2.8,0.074,Mass,2.8
+ARSPN_105,Nigeria,Abuja,56.0,Female,X-RAY,Head,Inpatient,2026-06-27,7.0,0.076,Normal,3.2
+ARSPN_106,Tanzania,Dar es Salaam,29.0,Male,CT,Pelvis,Outpatient,2026-04-30,17.1,9.64,Mass,2.9
+ARSPN_107,South Africa,Johannesburg,52.0,Male,MRI,Extremity,Inpatient,2026-03-27,40.5,0.104,Normal,3.2
+ARSPN_108,Tanzania,Dar es Salaam,41.0,Female,ULTRASOUND,Head,Emergency,2026-02-25,5.4,0.104,Fibroid,3.2
+ARSPN_109,Ghana,Kumasi,54.0,Male,CT,Extremity,Emergency,2026-03-28,4.6,2.15,Mass,3.0
+ARSPN_110,Uganda,Kampala,56.0,Male,X-RAY,Pelvis,Outpatient,2026-07-01,4.2,0.046,Fracture,3.2
+ARSPN_111,Tanzania,Dar es Salaam,74.0,Female,CT,Spine,Emergency,2026-07-15,12.1,14.22,Mass,4.9
+ARSPN_112,Tanzania,Dar es Salaam,90.0,Female,MRI,Pelvis,Outpatient,2026-05-07,30.9,0.104,Normal,3.2
+ARSPN_113,Uganda,Kampala,65.0,Female,MRI,Extremity,Outpatient,2026-03-06,38.1,0.104,Glioma,3.4
+ARSPN_114,South Africa,Cape Town,31.0,Male,MRI,Head,Emergency,2026-04-11,37.4,0.104,Meningioma,2.2
+ARSPN_115,Ghana,Kumasi,38.0,Male,CT,Abdomen,Emergency,2026-02-21,8.0,9.34,Normal,3.2
+ARSPN_116,Uganda,Kampala,48.0,Female,MRI,Extremity,Emergency,2026-07-04,37.0,0.104,Glioma,3.2
+ARSPN_117,Nigeria,Abuja,27.0,Male,ULTRASOUND,Extremity,Emergency,2026-04-27,15.0,0.104,Normal,3.2
+ARSPN_118,Kenya,Nairobi,34.0,Female,X-RAY,Head,Emergency,2026-06-28,4.4,0.081,Fracture,3.2
+ARSPN_119,Kenya,Nairobi,57.0,Male,X-RAY,Pelvis,Outpatient,2026-02-13,4.7,0.083,Pneumonia,3.2
+ARSPN_120,Uganda,Kampala,44.0,Male,CT,Extremity,Emergency,2026-05-17,9.0,5.27,Normal,3.2
