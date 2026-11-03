@@ -116,6 +116,7 @@ plt.title("Number of Imaging Records by Modality")
 plt.xlabel("Imaging Modality")
 plt.ylabel("Number of Records")
 plt.xticks(rotation=30)
+plt.savefig("imaging_records_by modality.png")
 plt.show()
 
 #histogram of age
@@ -123,17 +124,9 @@ plt.hist(df["age_years"], bins = 20)
 plt.title("Age distribution of imaging records")
 plt.xlabel("age_years")
 plt.ylabel("Number of records")
+plt.savefig("age_distribution.png")
 plt.show()
 
-#scatter plot of age vs lesionsize
-plot_data = df_clean[["age_years", "lesion_size_cm"]].dropna()
-
-plt.scatter( df_clean["age_years"], df_clean["lesion_size_cm"])
-
-plt.title("Age vs Lesion Size")
-plt.xlabel("Age (years)")
-plt.ylabel("Lesion Size (cm)")
-plt.show()
 
 #saving file to excel
 
@@ -148,6 +141,7 @@ plt.title("Age vs Lesion Size(Only Real Measurements)")
 plt.xlabel("Age (years)")
 plt.ylabel("Lesion Size (cm)")
 plt.grid(True, alpha=0.3)
+plt.savefig("age_vs_lesion_size.png")
 plt.show()
 
 print(f"Real measurements: {len(df_for_plot)}")
@@ -167,6 +161,7 @@ plt.suptitle("")
 plt.xlabel("Age group")
 plt.ylabel("Lesion size(cm)")
 plt.grid(True, alpha=0.3)
+plt.savefig("lesion_severity_with age")
 plt.show()
 
 
